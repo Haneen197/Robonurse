@@ -1,0 +1,679 @@
+{
+   "checksum": "15944e74228433d085104b05316edf29",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13396324840866348",
+            "date_last_used": "0",
+            "guid": "efd283f4-9e1c-43d5-b54d-ade1a250904c",
+            "id": "68",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13396324840866233",
+            "date_last_used": "0",
+            "guid": "1c1f5281-cfa8-4fe2-a167-1ee1b02ed268",
+            "id": "67",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13396324840866096",
+            "date_last_used": "0",
+            "guid": "30b1ac8a-e047-403a-8691-8e775420090f",
+            "id": "66",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13396324840865788",
+            "date_last_used": "0",
+            "guid": "bf44efda-951f-4e47-bee6-9d3f6bd59a4a",
+            "id": "65",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323743047785",
+            "date_last_used": "0",
+            "guid": "0981e652-bb48-430f-b8d0-ddf4b6ccd459",
+            "id": "62",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323743047666",
+            "date_last_used": "0",
+            "guid": "b31d9eaa-57e9-410d-97d4-672bab18893a",
+            "id": "61",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323743047502",
+            "date_last_used": "0",
+            "guid": "88992ebc-3d41-4a5f-a76a-e7fbdf18356b",
+            "id": "60",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323743046960",
+            "date_last_used": "0",
+            "guid": "78938865-2999-434f-bf5e-f9204cc521b0",
+            "id": "59",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323321018239",
+            "date_last_used": "0",
+            "guid": "826ffbe0-7b1f-4e91-8a7b-eb40098d010f",
+            "id": "56",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323321017998",
+            "date_last_used": "0",
+            "guid": "e528c327-6a9c-4639-bb49-4ed8f22f6f3d",
+            "id": "55",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323321017652",
+            "date_last_used": "0",
+            "guid": "13363d0e-5308-43c1-ab3d-45be1bd34144",
+            "id": "54",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13396323321015978",
+            "date_last_used": "0",
+            "guid": "107ddeac-db4c-4762-86a3-f6a2b3f7bc49",
+            "id": "53",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13396320053219121",
+            "date_last_used": "0",
+            "guid": "1fac1c93-bac7-4d95-9274-6443df36f186",
+            "id": "50",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13396320053219021",
+            "date_last_used": "0",
+            "guid": "efff6194-c4f4-460d-8030-a2f02027b210",
+            "id": "49",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13396320053218902",
+            "date_last_used": "0",
+            "guid": "9efe07d0-665d-4c4d-9d8c-2233c0d4342f",
+            "id": "48",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13396320053218431",
+            "date_last_used": "0",
+            "guid": "1fe369a0-d1b4-4cda-86cd-8ee7d98a14ba",
+            "id": "47",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13396313534048512",
+            "date_last_used": "0",
+            "guid": "be684cce-d799-429c-b868-4f9f003827e1",
+            "id": "44",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13396313534048371",
+            "date_last_used": "0",
+            "guid": "5a612d67-2e41-48ef-b1f8-644b8c275553",
+            "id": "43",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13396313534048169",
+            "date_last_used": "0",
+            "guid": "71a51191-3c8f-4ee6-b3fd-e253a0ae3329",
+            "id": "42",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13396313534047591",
+            "date_last_used": "0",
+            "guid": "b33b37df-3b60-4602-a155-cf6e42a50514",
+            "id": "41",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13253227261633077",
+            "date_last_used": "0",
+            "guid": "557f3553-f075-43dc-9649-92d8fa53de85",
+            "id": "25",
+            "name": "My Drive - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/my-drive",
+            "visit_count": 0
+         }, {
+            "date_added": "13253227321204054",
+            "date_last_used": "13394698828418351",
+            "guid": "7365466b-e46f-42b2-99ea-9fb3f0c02a3a",
+            "id": "26",
+            "name": "AASTMT Student Portal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://studentportal.aast.edu/",
+            "visit_count": 22
+         }, {
+            "date_added": "13253227336483453",
+            "date_last_used": "13370547543687073",
+            "guid": "78a6434e-ec6e-45b8-a734-9b24e810fb0b",
+            "id": "27",
+            "name": "Dashboard Sept 2020",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lmsweb.aast.edu/my/",
+            "visit_count": 1
+         }, {
+            "date_added": "13253227361077707",
+            "date_last_used": "13396308499794535",
+            "guid": "4bb5c8b4-2004-4729-bfd2-dd66c0c4b2f2",
+            "id": "28",
+            "name": "Inbox - h.amrabdo9@gmail.com - Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox",
+            "visit_count": 64
+         }, {
+            "date_added": "13253227384277663",
+            "date_last_used": "13395502663340199",
+            "guid": "3f10b446-e2ca-4095-ad03-a5de758bb533",
+            "id": "29",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 109
+         }, {
+            "date_added": "13253228099552603",
+            "date_last_used": "13381284139332809",
+            "guid": "ae949917-1055-4faa-8abc-7a8036fa1761",
+            "id": "30",
+            "name": "Classes",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/h",
+            "visit_count": 12
+         }, {
+            "date_added": "13253228256241862",
+            "date_last_used": "13370191401601452",
+            "guid": "01fb8b0c-c9c7-4a49-a9cc-cb5f9b6fa099",
+            "id": "31",
+            "name": "Netflix",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.netflix.com/browse",
+            "visit_count": 1
+         }, {
+            "date_added": "13260287510043216",
+            "date_last_used": "13356286537596910",
+            "guid": "659c41f4-7d35-4791-95b9-39ca543f5866",
+            "id": "32",
+            "name": "Uni Assist e.V. Online Portal",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://my.uni-assist.de/erste-schritte",
+            "visit_count": 0
+         }, {
+            "date_added": "13361830604047637",
+            "date_last_used": "13394229439090632",
+            "guid": "f9b81875-21db-4e16-990b-f71da5666b5c",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "visit_count": 3
+         }, {
+            "date_added": "13384037437345081",
+            "date_last_used": "0",
+            "guid": "cac75da1-0727-43d7-be9c-48398d5fb157",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dashboard",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maharatech.gov.eg/my/",
+            "visit_count": 1
+         }, {
+            "date_added": "13384106885539036",
+            "date_last_used": "0",
+            "guid": "c7d2b55d-1826-4ceb-b7d5-30c54e3436d0",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PlutoEdu",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.plutoedu.com/auth/form-builder/application-form/745492508?KAUSTVSRP=1526258323",
+            "visit_count": 1
+         }, {
+            "date_added": "13384473730868864",
+            "date_last_used": "0",
+            "guid": "e2d030fe-fb04-4bd5-857a-a171f7ea3aa1",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Joel Grus - Livecoding Madness - Let's Build a Deep Learning Library - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=o64FV-ez6Gw",
+            "visit_count": 1
+         }, {
+            "date_added": "13384473745561701",
+            "date_last_used": "0",
+            "guid": "0e1df278-d9b0-47dc-9c06-1daf0091203a",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How To Make A reddit Bot — Part One - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=krTUf7BpTc0",
+            "visit_count": 1
+         }, {
+            "date_added": "13384473750034770",
+            "date_last_used": "0",
+            "guid": "d75c0517-d231-470e-8b42-c3011c7efbef",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "10: Neural Networks - The Nature of Code - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh",
+            "visit_count": 1
+         }, {
+            "date_added": "13396310118159191",
+            "date_last_used": "0",
+            "guid": "242bcfe2-be5f-4ef9-bd1b-f78cdf6ad814",
+            "id": "9",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13396310118159113",
+            "date_last_used": "0",
+            "guid": "67fdb9b0-59d2-49ce-b5a5-e1f5c76ea359",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13396310118158994",
+            "date_last_used": "0",
+            "guid": "e1309aac-1b86-4e34-9cc5-a505b798f2ca",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13396310118157996",
+            "date_last_used": "0",
+            "guid": "ec3e4c2f-681b-4cb0-8954-511852c12a93",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         } ],
+         "date_added": "13396310117870126",
+         "date_last_used": "0",
+         "date_modified": "13396324840866348",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13360803450867811",
+               "date_last_used": "0",
+               "guid": "984d5c82-ba68-4b14-9a82-c41613154e1a",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "PIC to PIC Microcontroller Communication using RF Module",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://circuitdigest.com/microcontroller-projects/pic-to-pic-communication-using-rf-module",
+               "visit_count": 0
+            }, {
+               "date_added": "13367280861291146",
+               "date_last_used": "0",
+               "guid": "f48781e4-5d5e-449d-b8e5-60e69f73ca85",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Retinal diseases - Symptoms and causes - Mayo Clinic",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.mayoclinic.org/diseases-conditions/retinal-diseases/symptoms-causes/syc-20355825",
+               "visit_count": 0
+            }, {
+               "date_added": "13367280869444510",
+               "date_last_used": "0",
+               "guid": "13e2fac5-49a1-4c35-ae8c-1a0f06989832",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Retinal-Vessel-Segmentation-using-Deep-Learning/dataset/dataset-20201201T093901Z-001.zip at main · rohitbv998/Retinal-Vessel-Segmentation-using-Deep-Learning",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/rohitbv998/Retinal-Vessel-Segmentation-using-Deep-Learning/blob/main/dataset/dataset-20201201T093901Z-001.zip",
+               "visit_count": 0
+            }, {
+               "date_added": "13367280874592928",
+               "date_last_used": "0",
+               "guid": "a56a2ba6-2993-4b63-aabc-af1dfff18a03",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "IEEE Machine Learning Projects 2023 | Ieee Python Projects 2023 2024",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.ieeexpert.com/ieee-python-projects-2021-2022-machine_learning-project-titles/",
+               "visit_count": 0
+            }, {
+               "date_added": "13367280878658712",
+               "date_last_used": "0",
+               "guid": "d28fbc89-f07b-4f55-8882-870c13851a9f",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Diabetic Retinopathy Detection Using Machine Learning - IEEE Python Projects 2021 2022 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZisLP50CCN8",
+               "visit_count": 0
+            }, {
+               "date_added": "13368488152442673",
+               "date_last_used": "0",
+               "guid": "e936c99b-53e0-441e-b3c2-af4b87ebc28e",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Odoo - Settings",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://edu-accountant1231.odoo.com/web#action=84&model=res.config.settings&view_type=form&cids=1&menu_id=1",
+               "visit_count": 0
+            } ],
+            "date_added": "13353180877215097",
+            "date_last_used": "0",
+            "date_modified": "13368488152442673",
+            "guid": "74c08098-6110-493f-ab1b-21030fab5893",
+            "id": "11",
+            "name": "New folder",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13371544682453436",
+            "date_last_used": "0",
+            "guid": "2c6fd9c6-1597-4409-9002-48ab16bdb726",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MIT6_0001F16_Decomposition, Abstraction, Functions | Introduction to Computer Science and Programming in Python | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/mit6_0001f16_lec4/",
+            "visit_count": 1
+         }, {
+            "date_added": "13373276327688095",
+            "date_last_used": "0",
+            "guid": "5a2d98ac-8748-46a6-b539-b942214b74c9",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "100+ Machine Learning Projects with Source Code [2024]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/machine-learning-projects/",
+            "visit_count": 1
+         }, {
+            "date_added": "13373414519107008",
+            "date_last_used": "0",
+            "guid": "def6aa9a-32ab-41a5-891b-1cb3e606f3f3",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "big o ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/videos/riverview/relatedvideo?q=how+to+prove+big+o&mid=661CAABA0A1D371FDD43661CAABA0A1D371FDD43&FORM=VIRE",
+            "visit_count": 1
+         }, {
+            "date_added": "13373495256832714",
+            "date_last_used": "0",
+            "guid": "fc7c3bb5-4516-4726-a607-e82fb59b53b3",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Prove or Disprove Big Ω - Introduction to Computer Science - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=BeDnyutk2-E",
+            "visit_count": 1
+         }, {
+            "date_added": "13375548789593660",
+            "date_last_used": "0",
+            "guid": "7609cc18-d59b-4c66-9bb9-53812c6be553",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "18,795 weather icon icons - Iconfinder",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.iconfinder.com/search?q=weather+icon",
+            "visit_count": 1
+         }, {
+            "date_added": "13376176817964386",
+            "date_last_used": "0",
+            "guid": "60572e46-b84b-4c60-ba70-9e433dd3f708",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Minimum Spanning Tree | Practice | GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card",
+            "visit_count": 1
+         }, {
+            "date_added": "13377030069554329",
+            "date_last_used": "0",
+            "guid": "afd796be-9f80-4e0a-b8c2-be00a7a5f5a9",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Apply - Admissions",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://admissions.alxafrica.com/apply",
+            "visit_count": 1
+         } ],
+         "date_added": "13396310117870126",
+         "date_last_used": "0",
+         "date_modified": "13377030069554329",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13187020203630243",
+            "date_last_used": "0",
+            "guid": "69d052d7-dfc2-4889-b5b6-42d4cfb0aff8",
+            "id": "10",
+            "name": "Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/webhp",
+            "visit_count": 0
+         } ],
+         "date_added": "13396310117870126",
+         "date_last_used": "0",
+         "date_modified": "13187020203630243",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNs3mOGXAQAAEgAqGE9KOEg0WExDcm9LYS8rMmQ5R25ia1E9PUgDoAYMEq4BCCUSqQEKHFEvVHVtMnE0ZzVTd1E3ZktvUDgvRDU3d1ZHbz0SJDBlMWRmMjc4LWQ5YjAtNDdkYy05YzA2LTFkYWYwMDkxMjAzYRgAIAIoAjC4jOCM/jI44uHcgNIyQKrw34z+MkocZEV6QkNqMWp4WEVTRTlRNitKQk5Ua0orRTBBPVogIh7//TVyeWF0LzUwemErSGE3Vk1hMzk0ZWNtNVlLTT1l/ZyMSsI+AmAFEq0BCA4SqAEKHFE1SG5xMXVEVGpnbS9kNnBjQ1NtTHZPWG1STT0SJDEzZTJmYWM1LTQ5YTEtNGMzNS1hZThjLTFhMGYwNjk4OTgzMhgAIAAoADD3/sTFkjI4vv/ExZIyQL7/xMWSMkocQUZDWUFBVnNsT09jUW5mdVRJMXNWRVhQNTZnPVofIh26RlBQOHdiOUM1VVhhREFjRE4xV0dTNGdhamdNPWWTVEPCwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYzA5NzNiNTgtZmU3ZC01ODRhLWJiODEtMDhmYmQ3NDA2OTY4GAAgACgAMLTSspTcMTiT2LKU3DFAk9iylNwxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDBhNjliOGRkLTk2NWQtNWU5MC1iNzVkLWNkYTM1N2U3YjdmNxgAIAAoADCu0rKU3DE4lteylNwxQJbXspTcMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgZEqcBChxITGxrbE5lcUZ6YVpqWHN6OXo0ZW02ckF6dlk9EiQ1NTdmMzU1My1mMDc1LTQzZGMtOTY0OS05MmQ4ZmE1M2RlODUYACACKAIwuYzgjP4yOM729d/eMUCi8N+M/jJKHGI4Ui9GaEtvZ3RrRi9KRG84YUx1OVBPTlU5ND1aHiIcT2p3eHZ0dFRlN0Uzbk1qM1A5TlcvMThxNUNVPWWcfrBEwj4CYAUSrQEIDxKoAQocQVJLRC8wVmU4Y0gwdWhiWFB2b3hVVy9SVmdBPRIkYTU2YTJiYTYtMjk5My00YjYzLWFhYmMtYWYxZGZmZjE4YTAzGAAgACgAMPj+xMWSMji5gMXFkjJAuYDFxZIyShxQMmV3bFBER1U2OFJGT2d1ZUozdlNidllKYUE9Wh8iHd1yWk1YTUl3STBUM3JIeElDekxCL01JQ25ISVk9ZbrzawLCPgJgBRKsAQgKEqcBChx4M1NEUnJrWlFWRHRVRGpxWUNWYSs2eG1QSEU9EiQ2OWQwNTJkNy1kZmMyLTQ4ODktYjViNi00MmQ0Y2ZiMGFmZjgYACAAKAAwhPn1394xOLv99d/eMUC7/fXf3jFKHFU3eTFmOVlPTERLaHYzS1pzRDM3d2N0NDJ0QT1aHiIcK25mUENQclZnM2FscDE3K2FQWnlLMDBWWFJJPWUQMP/kwj4CYAUSrQEIFRKoAQocZTQ4aC9VbnVuRlZMcHJ4THBqSzJneUZWMjNVPRIkZmM3YzNiYjUtNDUxNi00NzI2LWE2MDctZTgyZmI1OWI1M2IzGAAgACgAMPWM442pMjikjuONqTJApI7jjakyShxvTnNYMTM4RXRpSkFwcmVKMWVpcHhXMHAwZ1U9Wh8iHe00d2srUnRZTEhrZ0E4d01DUzIxajU2RW5zRXM9ZTj5OTPCPgJgBRKtAQgWEqgBChxlNDFXTjRHeHBxZVlHOHBtNkp2TVRaYjlab009EiQ3NjA5Y2MxOC1kNTliLTRjNjYtOWJiOS01MzgxMmM2YmU1NTMYACAAKAAwhOT84LAyOILl/OCwMkCC5fzgsDJKHHd2T0xOMkxKVk5rSFJsRy9hOFVIazhER1N5OD1aHyId9mNDTHd0QWtPOEt0Q2I0ZnhFaVFYQnFuN1dRND1lyGUG5cI+AmAFEq0BCBASqAEKHHVTM1R1NllwNjNSS1VQUlNoWmhPa2ZNNktRWT0SJGQyOGZiYzg5LWYwN2ItNGY1NS04ODgyLTg3MGMxMzg1MWE5ZhgAIAAoADD6/sTFkjI4jIHFxZIyQIyBxcWSMkocejdDZEoybk1YVWlrV2wwVU5iNC9DVWNjbHgwPVofIh3uZGMrYXdzWUdTL3lSQzNmeENFVk5CaHhWNHdFPWU4+Tkzwj4CYAUSrQEIGxKoAQocRU1hbHZWK1ZPOEVxZjdwRnJnRDE3amMrUjhzPRIkNzhhNjQzNGUtZWM2ZS00NWI4LWE3MzQtOWIyNGU4MTBmYjBiGAAgAigCMLqM4Iz+Mjjw9vXf3jFApPDfjP4yShw4Qk1ZUmd1UzIwVjJsS2t2YU1WTE1DdmViaDg9Wh8iHdNZWERxR0QrVVFiWVlXK2lyVUVNYUg5WDhQdWs9ZTwxZnjCPgJgBRKsAQgSEqcBChxwSnJ3RVFHWU5tTklyaE1tY2tvR0M5azhXOG89EiQyYzZmZDljNi0xNTk3LTQ0MDktOTAwMi00OGFiMTZiZGI3MjYYACAAKAAwiPfW66EyOPmg1euhMkD5oNXroTJKHDhXL3hSVGFxTEVMWGRXY3FZQldnOWN2dTNDTT1aHiIcbGIzajVpWVlaektmT0ZyMWo3ZjVXajZLaGNNPWU7xoFNwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkM2QwNjk3MmYtNzRhMS01ZWZjLTg2MjktMjQ1YzM2NTJlMzA5GAAgACgAMK/SspTcMTi917KU3DFAvdeylNwxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEq0BCBMSqAEKHGdRUWs2bWw5aU1iQUpyQjNleXRxY1RtcFlaZz0SJDVhMmQ5OGFjLTg3NDgtNDZhNi1iNTM5LWI5NDIyMTRiNzRjORgAIAAoADDi3rClqDI48N6wpagyQPDesKWoMkocYWxQRTNST2krS1pmaWRDNzhvMm9qVEpqVndzPVofIh22Y1JLblpxaVphcDNqcS9DOTBRR21TVzdyZXZVPWVRpCm3wj4CYAUSrAEIDRKnAQocV1FocStWM3VKR3c3d0NQeTVtdHZORys0RHpJPRIkZjQ4NzgxZTQtNWQ1ZS00NDlkLWI4ZTUtNjBlNjlmNzNjYTg1GAAgACgAMPn+xMWSMjjigMXFkjJA4oDFxZIyShx5WHl6aFdmM1JjUXhrck12UmdQeFpmUExLTTQ9Wh4iHHRCWXdLa01RdzlxQlpTQnRXMGV2M2pqUERFcz1lEemzBsI+AmAFEq0BCBQSqAEKHGFwRE53bG1wY2J5NmkyWVVGQk8yeFltWW1idz0SJGRlZjZhYTlhLTMyYWItNDFhNS04OTFiLTFjYjNlNjA2ZjNmMxgAIAAoADDvy6PnqDI47qGj56gyQO6ho+eoMkocbzMraWQvS3Y5RG1kRVMyaHJZZ1B4cnZmMjI0PVofIh3bZ28wUklHUFN1RmU3WElORUlxZGFSODE0a0tvPWWxRIkIwj4CYAUSrQEIGBKoAQoccDNtcWl3bTBFTG9ubEZYeS8xQ3JvTzFISk44PRIkYWZkNzk2YmUtOWY4MC00ZTBhLWI4YzItYmUwMGE3YTVmNWE5GAAgACgAMLXppqO2Mjjt6aajtjJA7emmo7YyShxrMFcva05WMmNjeG5kblhHcU81S1E2eUdIUUE9Wh8iHf1XaVlLZmp1SU1ZVEl6WTk0OW5YQWhkK3FiRHc9ZWI/ZCTCPgJgBRKtAQgaEqgBChxCSE95RW9SVXc5U0VsdnVDdXlheTNsTk9JYjg9EiQ3MzY1NDY2Yi1lNDZmLTQyYjItOTllYS05ZmIzZjBjMDJhM2EYACACKAIwu4zgjP4yOK729d/eMUCj8N+M/jJKHFFLTjQrQ2JNUkZTM09zaWtZcDYrbGcwZ1NaTT1aHyIdpzhUaXFSbDZUcnRJTGNQWC9BU3YwbDNLQkpXaz1lle9arMI+AmAFEq0BCBcSqAEKHDNWejd6azRWaFdKdWF1Q1h0TFZ4KzRnU3QvZz0SJDYwNTcyZTQ2LWI4NGItNGM2MC1iYTcwLTllNDMzZGQzZjcwOBgAIAAoADCSxriMszI4x8a4jLMyQMfGuIyzMkocYzVZaFJvNjJZN3F2cytGTWlrSlo4M2hwMTNVPVofIh37RG11MzZrSXh5YjczeFd0Q0cwem5TcFc5UTRBPWVRpCm3wj4CYAUSrQEIIBKoAQocWWp6MUh5SFFNVW1lRGFkZmxXbjBTQ2d3VG9JPRIkNjU5YzQxZjQtN2QzNS00NzkxLTk1YjktMzljYTU0M2Y1ODY2GAAgAigCMLyM4Iz+Mjj48/Xf3jFApvDfjP4yShxlbVJGYzA0Sng4R1pzZS90TDV5aXN6NlliUnM9Wh8iHf9jKzB0N2tZVVR3S0F1UkRCR3JhS1ZiNHZtU2s9ZWrVK5vCPgJgBRKsAQgLEqcBChxpdUFVa3FuZ0drTjNRTWRqUkhrME5QcEVwbUU9EiQ3NGMwODA5OC02MTEwLTQ5M2YtYWIxYi0yMTAzMGZhYjU4OTMYACAAKAAwu+/1394xOLr09d/eMUC69PXf3jFKHHk5dnQ2Yy9LdkJVcTFhMG1ybGJxRVdIejh4az1aHiIcUzd3MWFFMFM2RXpKa2J0WGNQS1lqSjg2K3BnPWUAAAAAwj4CYAASrQEIHBKoAQocdDVnVkxJNG9JWkY3TGFHSE1MSEdyRGtZSG9RPRIkNGJiNWM4YjQtMjAwNC00NzI5LWJmZDItZGQ2NmMwYzRiMmYyGAAgAigCMMCM4Iz+MjiZ9PXf3jFApPDfjP4yShxETm9DN3dkT0FZak4wWG9UcWptOU9MSUlXS1E9Wh8iHeloTmY4ZHU4VDY2ZDJiRGFHRWtQcTh3ZzU1T0k9ZVOwKpbCPgJgBRKsAQgMEqcBChxvNTQ1L2QrOTIyRVBTeDEwRmZBdGFIMEpGNms9EiQ5ODRkNWM4Mi1iYTY4LTRiMTQtOWE4Mi1jNDE2MTMxNTRlMWEYACAAKAAw8trs6fkxONbc7On5MUDW3Ozp+TFKHHQ1eHo4Rzkzbk1rVGE3ZVRnUmQ2MXJsU1Nodz1aHiIcZkI2azVJR1R5aEZVUTNFTzEzNEdWSWMwendvPWW2IlfOwj4CYAUSrgEIJBKpAQocV2NSVTdmR21NRFBBQ0ttWGNaL2FBWVVkbUo4PRIkZTJkMDMwZmUtZmIwNC00YmQ1LTg1N2EtYTE3MWY3ZWEzYWExGAAgAigCMMKM4Iz+MjjZ8NuA0jJAqfDfjP4yShxVRVMya1l3eTNLR24yVTdpRkNSTDd1TW1ZcmM9WiAiHv/7dUh0bDU5U3hIWGY4dUVUR0x3UEFZaDRTRGNjPWX9nIxKwj4CYAUSrQEIERKoAQocUW1IM1RZRmZZZzI4eXpmVGY4eHZ0VmtocjNrPRIkZTkzNmM5OWItNTNlMC00NDFlLWIzYzItYWY0Yjg3ZWJjMjhlGAAgACgAMMzbmbqWMjjX3Zm6ljJA192ZupYyShxhK1RaZHUwOU1ocEFQcG5zeW05Ky9ZWURia3c9Wh8iHfdWbzdjc3NTQUFxK041ckk5am9pb0k2S2RtSDA9ZR15t3/CPgJgBRKtAQgdEqgBChw2UHJRRmdzbmJBdTBSTUt1dUgybDg2dE1ZQzQ9EiQzZjEwYjQ0Ni1lMmNhLTQwOTUtYWQwMy1hNWRlNzU4YmI1MzMYACACKAIwv4zgjP4yOPr09d/eMUCl8N+M/jJKHE80MEd6VHFUMnREbEZrazZUYW0zbisySzdFdz1aHyId9FhQM2tDSysxNXpLUjBEV0JjWGVYU1ZZYk1JTT1l/ZyMSsI+AmAFEq0BCB4SqAEKHGN3Z2RVTzZ2WVlkdkZVY2xNN0lOU09JMStCZz0SJGFlOTQ5OTE3LTEwNTUtNGZhYS04YWJjLTdhODAzNmZhMTc2MRgAIAIoAjC9jOCM/jI4nPX1394xQKXw34z+MkocVTJDd2pHd3NYWmNCZ1pZZ3RVN29hL0J2cDFvPVofIh36WExmcTBqR2JWY0N2QXk2R09MdURIUDNjV0EwPWUER1j5wj4CYAUSrQEIHxKoAQocYXMyTjRiU0FHUUYzL2pGN2wrYVh4b3hRaVd3PRIkMDFmYjhiMGMtYzljNy00YTQ5LWE5Y2MtY2I1ZjliNmZhMDk5GAAgAigCMMOM4Iz+MjiN9vXf3jFApvDfjP4yShxhcGRSdndEUHh0aHgyOTVaS3NSS2g5RUlub3c9Wh8iHf1IU091VGxJY3dNUmtVZVhEYnJZbDZYYnk4YjA9ZUJj48PCPgJgBRKtAQghEqgBChxtM3U4aklNWVBURkFnakMrSkw5eTJiMzhkSTQ9EiRmOWI4MTg3NS0yMWRiLTRlMTYtOTkwYi1mNzFkYTU2NjZiNWMYACACKAIwvozgjP4yOJ+c0dP9MUCn8N+M/jJKHFlwR3A2V0VCd3RUVFkyZFhnbDZpd2xxWUxIaz1aHyId/2hrNVJ3bjNpUkRWZlE3ek1IakpFWEpHd09kVT1lyPM/u8I+AmAFEq4BCCISqQEKHERxdW5KenVRNE96akdlbWIxbGM2VUx1Y3BuVT0SJGNhYzc1ZGExLTA3MjctNDNkNy1iZTljLTQ4Mzk4ZDVmYjE1NxgAIAIoAjDEjOCM/jI4o+DWsNAyQKjw34z+MkocZHJoTjF1YktITGQ1VEdZUUZxM0psb3JPbXU4PVogIh7/71lqNmswZ0pXVEVTcmFWYkovNTBTbDBCb2NMTT1l+w3fPMI+AmAFEq4BCCMSqQEKHHo4V1ZLR2J4cSt6aEw5VzIzbVlRMDlwN0NMOD0SJGM3ZDJiNTVkLTE4MjYtNGNlYi1iN2Q1LTMwYzU0ZTM0MzZkMBgAIAIoAjDBjOCM/jI4ssXl0dAyQKjw34z+MkocY3I1dDI5SGt0Z2RjNWN4ZG5TY0IxYmthd2hJPVogIh7/9295OXNySVF1djcxZzdhM0hlZVROS05QZjFBOD1lnJVQT8I+AmAFEq4BCCYSqQEKHFNVODI3WU96ZkN1dWlub0tsMjJhczlxaGdxTT0SJGQ3NWMwNTE3LWQyMzEtNDcwZS04YjQyLWMzMDExYzdlZmJlZhgAIAIoAjDFjOCM/jI4gYTdgNIyQKrw34z+MkocWnB5ZkR3bHZqTUpGY2VKaUJJZENNVXlhcytnPVogIh7//lErWmFwUzdGUitUS0E5L3pmM1ZpME5zZVZkTT1l/ZyMSsI+AmAFMAA4AA==",
+   "version": 1
+}

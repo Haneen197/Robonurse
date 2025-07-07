@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911343716522",
+    "project_id": "robonurse-app",
+    "storage_bucket": "robonurse-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911343716522:android:f3ba9f8b6b5a33d97ba8d3",
+        "android_client_info": {
+          "package_name": "com.example.robonurse_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3atsxgfyXiKn7oQ8QJRUqekhexjlAPxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
